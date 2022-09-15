@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  width: 18rem;
+}
+li{
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+.back{
+background-color: #eee;
+}
+.card-img-top{
+  height: 300px;
+  width: auto;
+}
